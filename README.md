@@ -13,7 +13,9 @@ With Power Query Editor in service, the following steps were taken:
 
   4. Income is shown as currency instead of integar
 
-  5. All column headers were changed to lower case as it will be easier while working on SQL queries
+  5. 'acceptedcmp' columns are serially displayed as acceptedcmp1, acceptedcmp2....acceptedcmp5
+
+  6. All column headers were changed to lower case as it will be easier while working on SQL queries
      and for readibility.
 
 
